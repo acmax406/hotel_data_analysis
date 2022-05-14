@@ -1,0 +1,103 @@
+staff_r,facilities_r,cleanliness_r,comfort_r,Value_for_money_r,location_r,Free_wifi,overall,hotel_name,Latitude,Longitude,value
+9.7,9.1,9.6,9.6,9.2,9.0,8.2,9.1,"Wanderlust, The Unlimited Collection by Oakwood (SG Clean)",1.3050353,103.8546063,2
+9.3,9.1,8.8,9.1,8.7,8.1,8.5,8.7,Grand Park City Hall (SG Clean),1.2923835,103.8501646,3
+8.2,8.6,7.5,6.8,7.3,6.8,7.5,7.1,Lion Peak Hotel Bugis - Staycation Approved,1.2978929,103.8570701,5
+8.1,7.8,8.6,8.1,7.7,8.4,2.5,7.2,ST Signature Jalan Besar (7 hours: 9AM-4PM),1.3054625,103.8548544,6
+8.6,8.6,8.0,7.5,7.6,7.3,7.2,7.5,"Check-Inn at Little India - SG Clean, Staycation Approved",1.3076092,103.8506788,7
+9.1,9.1,8.3,8.2,7.8,7.7,9.4,8.4,Century Service World,1.2811261,103.8432686,8
+9.3,9.0,8.8,9.1,8.8,8.3,8.7,8.7,Ascott Orchard Singapore,1.3040188,103.8371582,9
+8.2,8.6,8.9,8.6,8.0,8.2,8.9,8.1,D'Hotel Singapore,1.2842772,103.8349773,10
+8.3,8.1,7.6,7.2,7.2,7.0,6.7,7.4,Rucksack Inn at Tyrwhitt,1.3143551,103.8603635,11
+7.9,7.9,7.1,6.8,7.0,6.6,6.9,6.7,"Harbour Ville Hotel - Hamilton (SG Clean, Staycation Approved)",1.311666,103.8614966,12
+7.2,7.6,6.9,5.6,5.7,5.7,7.5,6.4,Joyfor Backpackers' Hostel (SG Clean),1.311202,103.8740079,13
+8.4,7.6,7.2,7.7,7.9,7.9,6.6,7.0,K Space Inn 569,1.315587,103.858168,14
+7.3,6.8,7.4,7.1,6.8,7.6,6.2,6.4,"ST Signature Bugis Beach [5 Hours, 9AM-2PM] (SG Clean, Staycation Approved)",1.2972645,103.856638,15
+7.3,6.8,7.2,7.1,7.2,8.3,7.5,6.2,K Space Inn 14,1.2875983,103.8490247,16
+7.8,6.6,7.0,6.8,7.0,8.6,6.8,7.0,"Tai Hoe Hotel (SG Clean, Staycation Approved)",1.3102778,103.8566667,17
+7.7,7.3,7.6,6.8,7.2,6.7,9.0,6.9,"Q Loft Hotels@Bedok (SG Clean, Staycation Approved)",1.3315894,103.9471647,19
+6.3,5.0,5.1,5.1,5.5,6.4,6.6,5.0,K Hotel 14 (SG Clean),1.3112033,103.8775632,20
+7.5,7.8,7.0,7.0,7.0,6.8,7.4,6.7,J8 Hotel (SG Clean),1.3076071,103.8584645,24
+9.6,9.0,9.5,9.4,8.6,9.3,9.2,9.0,Montien Hotel Surawong Bangkok - SHA Extra Plus,13.730542,100.5310982,1
+7.8,7.2,7.3,7.6,7.8,8.5,9.0,7.6,Thaiphiphat house,13.7255192,100.5313095,3
+9.2,9.0,9.3,9.2,9.2,9.1,8.7,8.9,The Quarter Silom by UHG - SHA Extra Plus,13.728463,100.5303535,6
+9.0,7.9,8.5,8.3,8.5,8.6,10.0,8.3,Adamaz House,13.7626266,100.4973886,7
+8.6,7.6,8.1,8.0,8.3,7.8,8.1,7.9,Solo Express Sukhumvit 81,13.7063093,100.605427,8
+8.5,8.3,9.1,8.8,8.7,8.7,7.1,8.4,Sereine Sukhumvit 39,13.7334546,100.5707422,9
+8.6,8.0,8.3,8.2,8.1,8.3,7.6,8.1,Josh Hotel,13.7836171,100.544108,10
+8.9,8.5,9.0,9.1,9.0,8.6,6.2,8.8,RICO Hotel Ratchadapisek 32,13.8190466,100.5810152,11
+9.1,8.1,8.9,8.4,9.2,8.9,8.3,8.7,Varinda Hostel,13.7226877,100.56147,12
+7.9,7.6,7.6,7.7,7.8,7.6,5.8,7.5,Vabua Asotel Bangkok,13.7691898,100.6323458,13
+9.6,9.5,9.7,9.7,8.6,9.7,8.9,9.4,Siam Kempinski Hotel Bangkok - SHA Extra Plus Certified,13.7486695,100.5352942,14
+8.6,8.5,9.1,8.9,8.7,7.5,9.2,8.5,Aspira Tropical Residence Thong Lor - SHA Certified,13.7364421,100.5788563,16
+9.1,8.5,8.8,8.7,8.6,8.4,8.6,8.6,28 Place,13.7240303,100.4602601,17
+6.2,6.0,6.3,6.6,6.9,6.2,8.0,5.9,OYO 271 The Resort Romklao,,,18
+9.1,8.4,8.4,8.5,8.1,9.1,8.8,8.4,Arte Hotel - SHA Extra Plus,13.7402496,100.5598941,19
+8.7,8.6,9.0,9.1,8.7,9.5,8.8,8.5,Mercure Bangkok Sukhumvit 24 - SHA Extra Plus,13.729044,100.569537,21
+9.0,9.0,9.1,9.1,8.0,9.6,8.4,8.8,Grande Centre Point Hotel Terminal21 - SHA Extra Plus,13.7376555,100.5606014,22
+9.2,8.5,9.0,8.9,8.7,9.3,8.0,8.7,Dinsomon Hotel,13.7559776,100.5016022,23
+8.7,7.9,8.3,8.2,8.2,7.2,8.2,7.9,Alt Hotel Nana by UHG,13.7350784,100.5522473,24
+8.9,8.5,8.7,8.7,8.5,8.8,8.3,8.5,De Prime@Rangnam,13.759591,100.5401861,25
+9.2,8.9,9.1,9.1,8.6,9.4,8.7,8.9,Adelphi Suites Bangkok - SHA Extra Plus,13.738969,100.5557719,26
+9.2,8.5,9.0,8.7,8.3,7.9,9.0,8.4,Le D'Tel Bangkok,13.7199454,100.5383272,27
+8.3,7.8,8.1,8.1,8.2,8.2,5.8,8.1,Romance Hotel Bangna,13.6754466,100.6429481,28
+8.5,8.0,8.4,8.2,8.2,8.5,7.7,8.1,Ibis Bangkok Riverside - SHA Extra Plus,13.7176387,100.509499,29
+9.1,8.6,8.9,8.9,8.2,8.5,8.6,8.6,Courtyard by Marriott Bangkok - SHA Extra Plus,13.7410243,100.5418976,30
+9.0,8.8,9.0,8.9,8.9,9.0,7.8,8.8,Abloom Exclusive Serviced Apartments,13.773409,100.5410663,31
+7.9,6.9,7.2,7.2,7.1,7.8,6.2,7.2,Royal President Bangkok - SHA Extra Plus,13.741516,100.558547,32
+8.3,7.0,7.3,7.3,7.3,9.1,10.0,7.5,China Town Hotel - SHA Plus Certified,41.8523641,-87.63259,33
+8.0,7.4,7.6,7.8,6.8,8.5,6.4,7.6,Zenith Sukhumvit Hotel - SHA Extra Plus,13.7449138,100.5532434,34
+8.6,8.1,8.5,8.4,8.4,7.7,8.5,8.1,Marigold Sukhumvit,13.6517611,100.6000176,35
+9.5,9.4,9.6,9.6,9.6,9.2,8.3,9.4,RoomQuest Sukhumvit36 BTS Thonglor,13.7188525,100.5754794,36
+8.0,7.8,8.3,8.3,8.0,8.8,7.1,8.0,24Residence Siriraj,13.7559992,100.4807636,38
+9.3,8.5,8.9,8.9,8.4,8.3,8.3,8.6,The Raweekanlaya Bangkok,13.767825,100.5050334,39
+8.9,9.0,8.8,9.0,8.8,8.7,8.8,8.6,Somerset Kuala Lumpur,3.160067,101.722926,2
+7.9,5.8,6.4,6.3,6.6,7.8,7.1,6.1,Fast Hotel Setapak,3.206346,101.720443,4
+8.8,8.2,8.1,8.4,8.6,9.3,7.2,8.2,Better Residence Suite at Times Square KL,3.1422541,101.7097614,5
+6.7,7.0,6.1,6.5,6.0,6.0,6.0,5.7,LEO Express Hotel,3.1291667,101.7122222,15
+8.9,8.8,8.6,8.8,8.6,8.6,8.4,8.5,Saba Suites at Platinum KLCC Bukit Bintang Kuala Lumpur,3.1586786,101.7040718,19
+9.1,9.0,9.3,9.3,9.3,9.2,8.3,8.9,Ceylonz Seasonal Suites,3.1485558,101.7020491,20
+7.5,7.5,7.0,7.5,7.5,7.8,7.5,7.0,KL Gateway Bangsar By Sleepy Bear,3.139003,101.686855,23
+9.1,9.3,9.3,9.4,8.9,9.8,10.0,9.3,Tropicana Residence KLCC @ Getaway Home Suite,3.158464,101.7094092,27
+8.9,8.2,8.5,8.5,8.5,8.9,9.2,8.2,Sky Suites KL City Centre,3.1562857,101.7095228,29
+7.4,7.6,7.1,7.2,7.2,6.8,6.5,6.7,Regalia Suites & Hotel,3.164323,101.6926789,30
+7.4,6.0,6.6,6.4,6.3,6.9,6.2,5.7,Arte Plus By Dreamscape KLCC,3.1619744,101.7477972,32
+8.9,8.3,8.1,8.0,7.8,7.5,8.4,7.7,My Hotel @ Sentral,3.1333155,101.6889884,34
+9.6,9.2,9.1,9.5,9.0,9.4,8.3,9.3,Monkey Mansion Jalan Ipoh,3.1759356,101.6840552,35
+8.3,8.2,8.5,8.6,8.4,8.8,8.8,8.2,Vortex KLCC Apartments,3.1545986,101.7072092,36
+8.0,6.9,6.8,7.5,7.6,8.5,10.0,6.7,Lexus Service Suite,3.14238,101.71044,38
+7.5,8.4,7.9,8.0,7.9,7.5,7.5,7.6,City Comfort Hotel Kuala Lumpur City Center (Bukit Bintang),3.1395619,101.7134792,7
+6.2,4.8,5.6,5.6,5.7,6.9,4.2,5.2,1 Hotel Kuchai Lama,3.085168,101.691334,8
+8.8,8.6,8.3,8.6,8.4,8.4,8.7,8.2,The Platinum Suites Kuala Lumpur by LUMA,3.1585579,101.7037877,9
+7.2,6.2,6.7,6.4,6.6,7.4,5.0,6.3,1 Hotel Mahkota Cheras,3.051854,101.780452,11
+9.7,8.6,8.9,8.6,9.2,9.2,8.6,8.9,Hotel 1000 Miles,3.1490616,101.6979285,12
+7.4,7.6,7.1,7.2,7.2,6.8,6.5,6.7,Regalia Suites & Hotel,3.164323,101.6926789,13
+9.0,7.5,8.0,7.8,8.3,9.2,10.0,8.1,Nan Yeang Hotel,3.1441256,101.6986816,16
+8.6,8.7,8.8,8.7,8.7,9.1,9.4,8.5,Platinum Suites KLCC by SS Residence,3.158689,101.7040495,18
+9.2,8.6,8.3,8.7,8.2,8.1,8.8,8.3,Amethyst Love Guesthouse,3.1463519,101.7084401,19
+8.6,8.4,8.7,8.5,8.5,9.1,10.0,8.4,Sky Suites KLCC by White Forest Suites,3.1562857,101.7095228,22
+8.1,8.3,8.4,8.4,8.3,8.0,7.3,7.8,Greystone D'Majestic Place,3.1367571,101.7117417,24
+8.5,7.9,8.3,8.4,8.0,8.5,7.5,7.9,St Nomad M-City Ampang KLCC,3.1589713,101.7478776,25
+8.7,8.6,8.3,8.5,8.6,8.2,8.2,8.1,Seeds Hotel Ampang Point,3.1560542,101.7520065,28
+8.7,8.4,8.7,8.6,8.5,8.6,8.8,8.4,Boulevard Service Apartment at Jalan Kuching,3.2001152,101.6713713,30
+8.5,6.7,7.3,6.9,7.3,7.0,5.0,6.8,Marhaban Service Suite @ Times Square KL,3.1422541,101.7097614,32
+8.2,8.2,7.9,8.1,7.9,7.7,8.2,7.5,"Leo Palace New Wing, WTC Kuala Lumpur",3.170046,101.6936394,36
+8.0,6.9,6.8,7.5,7.6,8.5,10.0,6.7,Lexus Service Suite,3.14238,101.71044,37
+7.8,7.6,7.6,7.9,7.9,8.7,8.8,7.8,Binjai 8 KLCC @ De Space Suite,3.1587078,101.7175204,1
+8.8,8.9,8.9,8.6,8.7,8.5,8.2,8.5,THE FACE Suites,3.1585325,101.7038451,2
+8.1,7.5,7.9,8.1,7.8,7.5,10.0,7.2,D'Majestic Premier Suites Kuala Lumpur,3.1367618,101.7119439,4
+8.7,7.8,8.0,7.8,8.3,8.9,10.0,7.6,Greystone Swiss Garden Residence,3.1439372,101.7053782,9
+8.3,7.3,7.6,7.7,7.4,7.6,7.1,7.1,Arte Plus KLCC By DreamScape,3.1619744,101.7477972,11
+9.2,9.0,9.4,9.5,9.3,9.0,10.0,9.0,Aurora Pavilion Bukit Jalil by Ody Suites,3.0541402,101.670016,14
+8.1,7.1,6.8,7.4,6.9,6.6,7.0,6.7,My Hotel @ Bukit Bintang,3.144672,101.705973,5
+8.7,8.4,8.2,8.5,8.6,8.3,8.2,8.0,Dorsett Sri Hartamas KL by Roam,3.1599626,101.6520463,12
+9.0,8.5,8.7,8.7,8.5,8.4,9.4,8.3,Platinum Serviced Suite Klcc,3.1585539,101.7039197,15
+9.2,9.2,9.5,9.8,9.8,9.8,10.0,9.2,Revo Home at Pavilion Bukit Jalil,3.0536294,101.6685541,18
+8.9,9.0,8.8,9.0,8.8,8.7,8.8,8.6,Somerset Kuala Lumpur,3.160067,101.722926,19
+8.0,7.6,7.3,7.1,7.2,6.8,7.3,6.8,Hotel Gulshan,3.1575926,101.752613,20
+8.1,7.7,8.0,7.9,8.1,8.4,7.6,7.6,Swiss Garden Residence Kuala Lumpur,3.1441693,101.7057367,21
+8.6,8.7,8.8,8.7,8.7,9.1,9.4,8.5,Platinum Suites KLCC by SS Residence,3.158689,101.7040495,22
+8.9,7.6,7.8,7.8,7.8,7.5,7.2,7.6,Bintang Service Suite at Times Square,3.1421613,101.7106398,23
+7.7,7.3,6.9,7.0,7.0,6.6,6.6,6.6,Cairnhill Hotel Kuala Lumpur,3.1825524,101.6804253,26
+8.4,8.5,8.7,8.5,8.5,9.1,7.5,8.5,Dorsett Bukit Bintang Residence by De Space,3.1467855,101.7113043,34
+8.6,8.0,8.4,8.4,8.4,8.9,8.4,8.0,NU Hotel @ KL Sentral,3.1323374,101.6879903,37
+8.1,6.7,7.7,7.5,7.3,8.3,6.2,7.0,Vivids Hotel,3.1480445,101.7079048,39
