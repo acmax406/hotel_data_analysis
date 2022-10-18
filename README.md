@@ -1,4 +1,4 @@
-# sports-data-analysis
+# Hotel-data-analysis
 <b>Scraping with Random Sampling:</b>
 We randomly sampled hotels from three different cities: Bangkok, Singapore, and Kuala Lumpur. Since we did random sampling, we have to violate some of the guidelines given for this assignment. For example, we can not ignore/remove all the hotels with comments/reviews less than 100 comments while doing random sampling. Some of the hotels in our dataset do not have 100+ comments. We left that as it is. But our average no. of comments was much higher than 100 (see table below). 
 
